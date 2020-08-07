@@ -2,8 +2,8 @@
 	"clusters": [
 		{
 			"vk": {
-				"token": "3cd49d352da08a2c026fcb9d96581be4971a42e5a6ae55e296ebddbfd376ec3b719c59dd8afd1a653b8db",
-				"group_id": "gears1",
+				"token": "27d5a31981ce54fe526cd673677cbc5b59076d49400870aa1348fd177d2ee16d714cef7c58b981cb60d5b",
+				"group_id": "artztar",
 				"keywords": ["собака", "яблоко"],
 				"filter": true,
 				"longpoll": true,
